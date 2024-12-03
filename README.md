@@ -1,5 +1,5 @@
 # About Me:
- I’m currently working on: <br> a workout app which uses AI to evaluate your form. I am also experimenting with object detection using drones.<br><br> I’m currently learning:<br> how to create and train my own neural network and checking out some frontend frameworks (Tailwind CSS + Bootstrap).<br><br> Fun fact:<br> I love burritos
+ I’m currently working on: <br> a workout tracking app named Fittrack.<br><br> I’m currently learning:<br> Kotlin.<br><br>
 
 
 ## Socials:
