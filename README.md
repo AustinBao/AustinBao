@@ -1,5 +1,5 @@
 # About Me:
- I’m currently working on: <br> a habit tracking app named Dspln.<br><br> I’m currently learning:<br> Kotlin.<br><br>
+ I’m currently working on: <br> a habit tracking app named Dspln.<br><br> I’m currently learning:<br> Full Stack Open.<br><br>
 
 
 ## Socials:
