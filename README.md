@@ -1,5 +1,6 @@
 # About Me:
- I’m currently working on: <br> a habit tracking app named Dspln.<br><br> I’m currently learning:<br> Full Stack Open.<br><br>
+**I’m currently working on:** a website that helps users easily find and revisit specific parts of YouTube videos. <br>
+**I’m currently learning:** React.js and Express.js
 
 
 ## Socials:
