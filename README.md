@@ -1,6 +1,6 @@
 # About Me:
 **I’m currently working on:** 
-> a website that helps users easily find and revisit specific parts of YouTube videos.
+> A website that helps users easily find and revisit specific parts of YouTube videos.
 
 **I’m currently learning:**
 > React and Express
