@@ -1,6 +1,6 @@
 ## About Me:
 **I’m currently working on:** 
-> An app called "PickUp" that helps users easily host & find nearby pick-up sports games.
+> An app called "MatchLoc" that helps users easily host & find nearby pick-up sports games.
 
 **I’m currently learning:**
 > Typescript and React Native
