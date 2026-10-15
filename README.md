@@ -3,7 +3,7 @@
 > Personal website
 
 **I’m currently learning:**
-> Functional programming
+> CS 4780: Machine Learning for Intelligent Systems, Cornell University, Prof. Kilian Weinberger (YouTube)
 
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
