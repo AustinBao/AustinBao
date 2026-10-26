@@ -1,6 +1,6 @@
 ## About Me:
 **I’m currently working on:** 
-> Personal website
+> Personal website & Discord LeetCode bot
 
 **I’m currently learning:**
 > CS 4780: Machine Learning for Intelligent Systems, Cornell University, Prof. Kilian Weinberger (YouTube)
